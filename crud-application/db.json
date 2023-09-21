@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/n/h/i/7-507-7-gerief-rose-gold-original-imaggghwswdfhmwf.jpeg?q=70",
+      "price": 261,
+      "brand": "Gerief",
+      "name": "Flats Sandal",
+      "category": "foot-wear",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/kbnz8nk0/sandal/a/q/m/jlaser-cr-04-36-jsstyle-off-white-original-imafsyxzxfymmndr.jpeg?q=70",
+      "price": 550,
+      "brand": "JSStyle",
+      "name": "Woman Flats sandal",
+      "category": "foot-wear",
+      "gender": "female",
+      "id": 4
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/g/1/a/8-iq6850-9-reebok-ash-grey-shocking-orange-original-imagsrz8jf3t7tm7.jpeg?q=70",
+      "price": 1287,
+      "brand": "REEBOK",
+      "name": "Stride Runner M Running Shoes For Men",
+      "category": "foot-wear",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/1/i/u/-original-imaggcb7ndjv7fue.jpeg?q=70",
+      "price": 1500,
+      "brand": "BRUTON",
+      "name": "Modern Trendy Shoes Sneakers",
+      "category": "foot-wear",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-shoe/s/t/9/2c-flykids-15-onion-kats-original-imagquhekzr6kzvw.jpeg?q=70",
+      "price": 550,
+      "brand": "Kats",
+      "name": "Slip on Walking Shoes",
+      "category": "foot-wear",
+      "gender": "female",
+      "id": 7
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-shoe/p/j/h/10c-brd-1017-birde-original-imagqyyafnbfccfb.jpeg?q=70",
+      "price": 700,
+      "brand": "BIRDE",
+      "name": "Velcro Sneakers",
+      "category": "foot-wear",
+      "gender": "kids",
+      "id": 8
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/w/l/y/1-2-years-girls-frock-kaaludii-original-imagsy96zwffrhek.jpeg?q=70",
+      "price": 1800,
+      "brand": "Kaaludii ",
+      "name": "Girls Midi",
+      "category": "top-wear",
+      "gender": "kids",
+      "id": 9
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-track-pant/s/8/y/6-9-months-st-450-kids-sin-print-tp-bla-red-blu-yell-san-tee-original-imagcfkjzvq3gfny-bb.jpeg?q=70",
+      "price": 600,
+      "brand": "SAN TEE ",
+      "name": "Track Pant For Boys & Girls",
+      "category": "bottom-wear",
+      "gender": "kids",
+      "id": 10
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/kflftzk0/top/y/y/f/m-1753417-roadster-original-imafwyz9mnca765m.jpeg?q=70",
+      "price": 400,
+      "brand": "Roadster ",
+      "name": "Self Design Women",
+      "category": "top-wear",
+      "gender": "female",
+      "id": 11
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/top/u/d/q/-original-imagtgbtyepzhzpw.jpeg?q=70",
+      "price": 521,
+      "brand": "Roadster ",
+      "name": " Solid Women Green Top",
+      "category": "top-wear",
+      "gender": "female",
+      "id": 12
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/7/o/l/-original-imagrmc3mhqbemge.jpeg?q=70",
+      "price": 600,
+      "brand": "Force NXT ",
+      "name": "Round Neck Tee Men",
+      "category": "top-wear",
+      "gender": "male",
+      "id": 13
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/l/j/c/26-trouser-50-lee-tex-original-imagsgkstceb2rny.jpeg?q=70",
+      "price": 990,
+      "brand": "LEE TEX ",
+      "name": "White Trouser",
+      "category": "bottom-wear",
+      "gender": "female",
+      "id": 14
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/cargo/n/u/a/xl-double-zip-bagi-p-m-erenchino-original-imagrffzqvcumdhn.jpeg?q=70",
+      "price": 1400,
+      "brand": "ERENCHINO ",
+      "name": "Lycra Blend Trousers",
+      "category": "bottom-wear",
+      "gender": "male",
+      "id": 15
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/c/l/x/32-tr-miramichi-original-imagmsztbywuwg63.jpeg?q=70",
+      "price": 770,
+      "brand": "MiraMichi ",
+      "name": "Lycra Blend Trousers",
+      "category": "bottom-wear",
+      "gender": "male",
+      "id": 16
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/6/j/s/m-khsh000246-ketch-original-imag7unapg3qhuzv-bb.jpeg?q=70",
+      "price": 569,
+      "brand": "KETCH",
+      "name": "Spread Collar Casual Shirt",
+      "category": "top-wear",
+      "gender": "male",
+      "id": 17
+    }
+  ]
+}
